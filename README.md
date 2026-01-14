@@ -35,7 +35,7 @@ All images were collected using:
 - Multiple urban environments with varying sky visibility
 
 <p align="center">
-  <img src="figures/camera_setup.png" width="450">
+  <img src="figures/camera_setup.jpg" width="450">
 </p>
 
 Data collection scenarios include:
@@ -90,7 +90,7 @@ such as **tree gaps** and **building edges**.
 Below are example pairs of raw fisheye images and their corresponding sky masks:
 
 <p align="center">
-  <img src="figures/sample_raw.png" width="360">
+  <img src="figures/sample_raw.png" width="700">
 </p>
 
 ---
