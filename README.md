@@ -113,7 +113,12 @@ If you use this dataset in your research, please consider citing:
 **Spatio-Temporal Attention Enhanced U-Net for Sky Segmentation and  
 GNSS NLOS Satellite Identification with Smartphone Fisheye Cameras**
 
-(The citation details will be updated after publication.)
+https://ieeexplore.ieee.org/document/11682916
+
+This paper appears in: IEEE Internet of Things Journal
+Print ISSN: 2327-4662
+Online ISSN: 2327-4662
+Digital Object Identifier: 10.1109/JIOT.2026.3731409
 
 ---
 
