@@ -115,10 +115,10 @@ GNSS NLOS Satellite Identification with Smartphone Fisheye Cameras**
 
 https://ieeexplore.ieee.org/document/11682916
 
-This paper appears in: IEEE Internet of Things Journal
-Print ISSN: 2327-4662
-Online ISSN: 2327-4662
-Digital Object Identifier: 10.1109/JIOT.2026.3731409
+- This paper appears in: IEEE Internet of Things Journal
+- Print ISSN: 2327-4662
+- Online ISSN: 2327-4662
+- Digital Object Identifier: 10.1109/JIOT.2026.3731409
 
 ---
 
